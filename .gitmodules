@@ -4,3 +4,6 @@
 [submodule "foodcatalogue"]
 	path = foodcatalogue
 	url = https://github.com/nelluripujitha/Food_Catalogue_Service.git
+[submodule "restaurantlisting"]
+	path = restaurantlisting
+	url = https://github.com/nelluripujitha/Restaurant_Listing_service.git
