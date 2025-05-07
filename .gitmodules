@@ -1,3 +1,6 @@
 [submodule "eureka"]
 	path = eureka
 	url = https://github.com/nelluripujitha/eureka_service.git
+[submodule "foodcatalogue"]
+	path = foodcatalogue
+	url = https://github.com/nelluripujitha/Food_Catalogue_Service.git
