@@ -10,3 +10,6 @@
 [submodule "userinfo"]
 	path = userinfo
 	url = https://github.com/nelluripujitha/User_Info_Service.git
+[submodule "order"]
+	path = order
+	url = https://github.com/nelluripujitha/Order_Service.git
