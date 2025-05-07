@@ -16,3 +16,6 @@
 [submodule "Order"]
 	path = Order
 	url = https://github.com/nelluripujitha/Order_Service.git
+[submodule "food-delivery-fe"]
+	path = food-delivery-fe
+	url = https://github.com/nelluripujitha/Food_Delivery_FE.git
