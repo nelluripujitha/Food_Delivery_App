@@ -7,3 +7,6 @@
 [submodule "restaurantlisting"]
 	path = restaurantlisting
 	url = https://github.com/nelluripujitha/Restaurant_Listing_service.git
+[submodule "userinfo"]
+	path = userinfo
+	url = https://github.com/nelluripujitha/User_Info_Service.git
