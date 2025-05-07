@@ -19,3 +19,6 @@
 [submodule "food-delivery-fe"]
 	path = food-delivery-fe
 	url = https://github.com/nelluripujitha/Food_Delivery_FE.git
+[submodule "Data"]
+	path = Data
+	url = https://github.com/nelluripujitha/Data.git
