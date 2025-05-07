@@ -1,0 +1,3 @@
+[submodule "eureka"]
+	path = eureka
+	url = https://github.com/nelluripujitha/eureka_service.git
